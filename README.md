@@ -19,7 +19,7 @@ The compressed image is reconstructed from the reduced representation using the 
 The reconstructed image is compared with the original to assess the compression quality.
 
 ## Requirements
-* Python 3.6
+* Python 3.6 or above
 * Numpy
 * matplotlib
 * scipy
